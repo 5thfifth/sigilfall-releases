@@ -2,7 +2,7 @@
 
 Public Windows downloads and updates for Sigilfall, a card game played across five lanes.
 
-Current version: **3.6.0 — Rivals & Rewards**. Read the [release notes](https://github.com/5thfifth/sigilfall-releases/releases/tag/v3.6.0).
+Current version: **3.7.0 — A World Worth Playing**. Read the [release notes](https://github.com/5thfifth/sigilfall-releases/releases/tag/v3.7.0).
 
 ## Download and play
 
